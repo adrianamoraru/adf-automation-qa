@@ -3,7 +3,7 @@
 describe('ADF Demo App', function() {
 	
 	var applyButton = element(by.id('host-button'));
-	var folderName = 'test';
+	var folderName = 'adrianamoraru';
 	var newFolderButton = element(by.xpath("//mat-icon[text() = 'create_new_folder']"));
         var folderNameElement = element(by.id('adf-folder-name-input'));
 	var addFolderButton  = element(by.id('adf-folder-create-button'));
