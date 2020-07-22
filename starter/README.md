@@ -5,7 +5,7 @@
 - `npm install @babel/core @babel/register --save-dev`
 
 ## Description
-First time when I use protractor&javascript. This setup doesn't works for me, so to run the test 
+It is first time when I use protractor&javascript. This setup doesn't works for me, so to run the test 
 I added another (local)setup.(it is commented in conf.js).
 
 - run tests: - `webdriver-manager start`
